@@ -1,0 +1,18 @@
+{
+  "psw-added": ", tu contraseña fue guardada exitosamente",
+  "psw-removed": ", tu contraseña fue eliminada exitosamente",
+  "psw-modified": ", tu contraseña fue modificada exitosamente",
+  "psw-error": ", Ocurrio un error inesperado",
+  "psw-service-error": ", parece que el servicio solicitado no se encuentra registrado",
+  "psw-all-service": "Estos son los servicios activos de los cuales tengo contraseña",
+  "save-error": "lo siento, no pude enviar tu mensaje",
+  "help-pa": "pa <servicio::contraseña> (Crea una nueva contraseña)",
+  "help-pe": "pa <servicio::nuevacontraseña> (Edita una contraseña)",
+  "help-pd": "pd <servicio> (borra contraseña del servico indicado)",
+  "help-ps": "ps <servicio> (Obtiene contraseña del servicio indicado)",
+  "help-pas": "pas (No necesita parametros. Regresa los servicios de los cuales se cuenta con contraseña activar)",
+  "help-s": "s <mensaje> (el mensaje debe ir entre comillas si contiene mas de una palabra)",
+  "help-h": ", te recuerdo algunas de las opciones que tengo (pa - pe - pd - ps - pas - s) si requieres mas información usa h <accion>",
+  "unknown-user": "Lo sentimos, este es un bot privado :C",
+  "default": "Lo siento, no logro entenderte"
+}
